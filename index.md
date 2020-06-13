@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /welcome/
+permalink: /
 header:
   image: /assets/images/fond.jpg
 intro: 
