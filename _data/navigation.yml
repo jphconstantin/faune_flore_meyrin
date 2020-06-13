@@ -1,0 +1,14 @@
+main:
+  - title: "A Propos"
+    url: /about/
+  - title: "Le blog"
+    url: /blog/
+  - title: "Archives"
+    url: /archives/
+  - title: "Catégories"
+    url: /category/
+  - title: "Tags"
+    url: /tags/
+  - title: "Contact"
+    url: /contact/
+

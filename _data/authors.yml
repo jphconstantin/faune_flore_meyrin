@@ -1,0 +1,13 @@
+vb:
+  name: "Victor BERRIDGE" 
+  bio:  "Université de Genève"
+jpc:
+  name	: "JPh. CONSTANTIN"
+  bio	: "Ingénieur diplômé EPFL"
+  location : "Geneva, Switzerland"
+  avatar: "/assets/images/jph.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jph.constantin1217@gmail.com"
+
