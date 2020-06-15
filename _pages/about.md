@@ -22,3 +22,5 @@ Ils ont vu malheureusement des espèces disparaître, comme le hanneton... et ..
 Mais cela n'empêche pas la Nature de reprendre ses droits: on découvre des espèces d'orchidée dans des endroit insolites.
 
 (Portés par ...) Ces deux-là ne pouvaient que se rencontrer, pour le meilleur, sans aucun doute.
+
+Epicurien.
