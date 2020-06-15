@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: About
+title: A Propos
+classes: wide
 author_profile: true
 permalink: /about/
 ---
