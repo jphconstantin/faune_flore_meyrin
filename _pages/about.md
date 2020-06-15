@@ -3,21 +3,22 @@ layout: archive
 title: About
 author_profile: true
 permalink: /about/
-authors: [vb,jpc]
 ---
 
-Découvrez les merveilles de la Nature dans Meyrin à travers sa faune et sa flore.
-En effet, Meyrin, malgré son urbanisation, présente une richesse écologique que ce soit dans les millieux terrestres, aquatiques et aériens.
-...
-une grande diversité de faune s'épanouit ...
-comme la commune possède des aires protégées, les animaux y vivent paisiblement, en sécurité et tout en liberté dans leur milieu naturel malgré la proximité des humains ...
-...
-Dans la commune, vous pourrez faire la rencontre d'animaux diificiles à ... comme ...
-Ainsi que ...
-Les insectes comme la libellule prospèrent dans les milieux aquatiques
+Deux passionnés ...   
 
-Le territoire possède ... espèces de fleurs comme les orchidées,...
-Quant aux arbres ...
+L'un polytechnicien, mordu de photographie, passionné de nature, révèle les trésors de la vie qui nous entoure, toujours à la recherche de l'explication scientifique.   
 
+L'autre universitaire, biologiste dans l'âme, sensible à la fragilité de l'écosystème, toujours prêt à sauvegarder notre biodiversité, il connaît les mystères de la nature et vous montre l'invisible.   
 
-Au gré de nos ... nous vous ferons découvrir ...
+Tout deux essayent d'avoir une attitude respectueuse lors de leurs randonnées dédiées à l'observation de la faune et de la flore.   
+
+Tout deux habitant Meyrin depuis 1962, ils ont vus la Commune se métamorphoser, passer d'un village à une cité.
+
+L'évolution des habitats,l'urbanisation progressent et, par voie de conséquence, les surfaces naturelles continuent à se réduire comme peau de chagrin.
+
+Ils ont vu malheureusement des espèces disparaître, comme le hanneton... et ..., 
+
+Mais cela n'empêche pas la Nature de reprendre ses droits: on découvre des espèces d'orchidée dans des endroit insolites.
+
+(Portés par ...) Ces deux-là ne pouvaient que se rencontrer, pour le meilleur, sans aucun doute.

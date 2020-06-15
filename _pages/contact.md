@@ -1,10 +1,8 @@
 ---
-layout: archive
 author_profile: true
 permalink: /contact/
 ---
-# <span style="color:red">Pas opérationnel !</span>
-
+<span style="color:red">Pas opérationnel !</span>
 
 Parce que ce blog est avant tout un moyen d'échanger et de réfléchir sur la Nature et tout ce qui lui est lié au possible, voici un formulaire pour nous contacter.
  
