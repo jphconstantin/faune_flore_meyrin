@@ -1,0 +1,30 @@
+---
+layout: archive
+---
+<!-- modification du fichier original jph constantin - juin 2020 -->
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+<!--
+{% for post in posts %}
+  {% include archive-single.html %}
+{% endfor %}
+-->
+{% for post in posts %}
+  <article>
+    <h2>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.content }}
+  </article>
+{% endfor %}
+{% include paginator.html %}

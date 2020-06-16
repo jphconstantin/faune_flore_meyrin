@@ -17,7 +17,7 @@ Tout deux habitant Meyrin depuis 1962, ils ont vécu la métamorphose de la comm
 
 L'évolution des habitats et de l'urbanisation ont progressé et, par voie de conséquence, les surfaces naturelles ont continué à se réduire comme peau de chagrin.
 
-Ils ont vu malheureusement des espèces disparaître, comme le hanneton... et ..., 
+Ils ont vu malheureusement des espèces disparaître, comme le lézard des souches et les sonneurs à ventre rouge. 
 
 Mais cela n'empêche pas la Nature de reprendre ses droits: on découvre des espèces d'orchidée dans des endroits insolites.
 
