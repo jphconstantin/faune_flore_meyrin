@@ -1,0 +1,16 @@
+- name: "JPh. CONSTANTIN"
+  bio: "Ingénieur diplômé EPFL"
+  location : "Genève, Switzerland"
+  avatar: "/faune_flore_meyrin/assets/images/jph.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:jph.constantin1217@gmail.com"
+- name: "Victor BERRIDGE" 
+  bio:  "Université de Genève"
+  location: "Meyrin, Suisse"
+  avatar: "/faune_flore_meyrin/assets/images/jph.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vbe01@bluewin.ch"

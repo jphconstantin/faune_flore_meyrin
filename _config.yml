@@ -20,7 +20,7 @@
 
 title: "Faune et flore de Meyrin"
 title-separator: "-"
-subtitle: "Version 0.1"
+subtitle: "Site en construction - Version 0.2"
 name: "Jean-Philippe CONSTANTIN"
 email: your-email@example.com
 description: &description "partager notre passion de la Nature"
@@ -98,4 +98,9 @@ locale: "fr-FR"
 
 header:
   image: /assets/images/banner.jpg
+
+logo: "/assets/images/apple-touch-icon.png"
+
+#s'affiche à la place de title
+#masthead_title: "My Custom Title"
 

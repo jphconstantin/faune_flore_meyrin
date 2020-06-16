@@ -1,9 +1,8 @@
 ---
 layout: home
 sidebar:
-  - title: categories
-  - title: tags
 permalink: /blog/
+
 ---
 <!--<ul>
 {% for author in site.data.authors %}

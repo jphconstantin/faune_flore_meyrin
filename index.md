@@ -2,8 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_image: /assets/images/fond.jpg
-  show_overlay_excerpt: false
+  image: /assets/images/ban.jpg
 intro: 
   - excerpt: 'Découvrez les merveilles de la Nature dans Meyrin à travers sa faune et sa flore.'
 feature_row:
@@ -19,14 +18,14 @@ feature_row2:
   - image_path: /assets/images/ban.jpg
     alt: "placeholder image 2"
     excerpt: 'Comme la commune possède des aires protégées, les animaux y vivent paisiblement, en sécurité et tout en liberté dans leur milieu naturel malgré la proximité des humains.'
-    url: "#test-link"
-    btn_label: "Read More"
+    url: "/blog/"
+    btn_label: "Les articles"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/splash_image_4.jpg
     alt: "placeholder image 2"
     excerpt: 'Les insectes comme la libellule prospèrent dans les milieux aquatiques.'
-    url: "#test-link"
+    url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"    
 feature_row4:
@@ -34,7 +33,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---

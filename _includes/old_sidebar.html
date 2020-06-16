@@ -18,6 +18,21 @@
     {% endif %}
   {% endif %}
 
+<h2>Auteurs</h2>
+{% for author in site.data.authors %}
+<div class="author__avatar">
+  <img src="{{ author.avatar }}" >
+</div>
+<div class="author__name">
+  {{ author.name }}
+</div>
+<div class="author__bio">
+  {{ author.bio }}
+</div>
+<div class="author__urls">
+  {{ author.links.url }}
+</div>
+{% endfor %}
 
 <h2>Catégories</h2>  
 {% assign cats = site.categories | sort %}
