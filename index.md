@@ -17,7 +17,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/ban.jpg
     alt: "placeholder image 2"
-    excerpt: 'Comme la commune possède des aires protégées, les animaux y vivent paisiblement, en sécurité et tout en liberté dans leur milieu naturel malgré la proximité des humains.'
+    excerpt: 'Comme la commune possède des aires protégées et des zones humides, les animaux y vivent paisiblement, en sécurité et tout en liberté dans leur milieu naturel malgré la proximité des humains.'
     url: "/blog/"
     btn_label: "Les articles"
     btn_class: "btn--primary"
@@ -26,7 +26,7 @@ feature_row3:
     alt: "placeholder image 2"
     excerpt: 'Les insectes comme la libellule prospèrent dans les milieux aquatiques.'
     url: "/blog/"
-    btn_label: "Read More"
+    btn_label: "Les articles"
     btn_class: "btn--primary"    
 feature_row4:
   - image_path: /assets/images/splash_image_5.jpg
@@ -40,12 +40,12 @@ feature_row4:
 {% include feature_row id="intro" type="center" %}
 En effet, Meyrin, malgré son urbanisation, présente une richesse écologique que ce soit dans les milieux terrestres, aquatiques et aériens. Une grande diversité de faune s'épanouit dans les bois et les champs voire même dans les habitations ...
 {% include feature_row %}
-blabla1
+
 {% include feature_row id="feature_row2" type="left" %}
-blabla2
+
 {% include feature_row id="feature_row3" type="right" %}
-blabla3
-{% include feature_row id="feature_row4" type="center" %}
+
+<!--{% include feature_row id="feature_row4" type="center" %}-->
 
 Dans la commune, vous pourrez faire la rencontre d'animaux difficiles à observer comme ...
 une grande armoire à pharmacie ...

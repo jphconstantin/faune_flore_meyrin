@@ -109,6 +109,10 @@ fr: &DEFAULT_FR
   search_placeholder_text    : "Entrez votre recherche..."
   results_found              : "Résultat(s) trouvé(s)"
   back_to_top                : "Retour en haut"
+  
+
+
+
 fr-FR:
   <<: *DEFAULT_FR
 fr-BE:

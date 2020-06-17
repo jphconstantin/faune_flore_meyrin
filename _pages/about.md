@@ -8,7 +8,7 @@ author: jpc
 
 Deux passionnés ...   
 
-L'un polytechnicien, mordu de photographie, passionné de nature, révèle les trésors de la vie qui nous entoure, toujours à la recherche de l'explication scientifique.   
+L'un polytechnicien, mordu de photographie, curieux et cartésien de nature, révèle les trésors de la vie qui nous entoure, toujours à la recherche de l'explication scientifique.   
 
 L'autre universitaire, biologiste dans l'âme, sensible à la fragilité de l'écosystème, toujours prêt à sauvegarder notre biodiversité, il connaît les mystères de la nature et vous montre l'invisible.   
 
