@@ -2,8 +2,6 @@
 layout: archive
 permalink: /archives/
 ---
-Afficher le mois en français !
-Grouper par mois ?
 <div class="post">
 	<h2>Archives</h2>
 	<ul>
