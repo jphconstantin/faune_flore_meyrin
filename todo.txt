@@ -1,3 +1,4 @@
+Bug: photos en double !
 Encadrer les photos: faire un css
 Mois de l'année en français
 Compresser les images
