@@ -1,0 +1,19 @@
+Encadrer les photos: faire un css
+Mois de l'année en français
+Compresser les images
+Revoir les catégories et les tags
+Auteur de la photo
+Date de prise de la photo: photofiltre > image properties > exif > 
+Récupérer métadata d'une photo (en javascript, en jekyll) (exif.js, jekyll-exiftag, jekyll-exif-data)
+Faire une bannière
+Mot contact dans le footer ?
+Page A propos: photo de nous deux, 
+Archives: par année et par mois
+Formulaire de contact
+Commentaire pour chaque post 
+Réseaux sociaux ? + pinterest,kindle, partage par email
+Recommander ce blog ?
+Imprimer un post ?
+
+
+
