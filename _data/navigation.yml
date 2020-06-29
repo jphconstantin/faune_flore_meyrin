@@ -11,4 +11,6 @@ main:
     url: /tags/
   - title: "Contact"
     url: /contact/
+  - title: "Mentions Légales"
+    url: /mentions/
 

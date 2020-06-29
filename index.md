@@ -62,3 +62,37 @@ Au gré de nos ... nous vous ferons découvrir ...
 Une faune rare et diversifiée ... s'épanouit dans le territoire ...
 Les sous-bois représentent un biotope idéal pour les champignons.
 La faune et la flore parviendront-elles à s’adapter suffisamment rapidement aux changements climatiques ? Voilà l’inconnue à laquelle font face les écologues
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+{% assign posts = site.posts %}
+{% for post in posts limit:3 %}
+<article>
+<h2>
+      <a href="{{ post.url | relative_url  }}">{{ post.title }}</a>
+</h2>
+
+<time datetime="{{ post.date | date: "%d" }}">{{ post.date | date_to_long_string | date: "%d" }}</time>
+{% assign m = post.date | date: "%m" %}
+    {% case m %}
+      {% when '01' %}Janvier
+      {% when '02' %}Février
+      {% when '03' %}Mars
+      {% when '04' %}Avril
+      {% when '05' %}Mai
+      {% when '06' %}Juin
+      {% when '07' %}Juillet
+      {% when '08' %}Août
+      {% when '09' %}Septembre
+      {% when '10' %}Octobre
+      {% when '11' %}Novembre
+      {% when '12' %}Décembre
+    {% endcase %}
+<time datetime="{{ post.date | date: "%Y" }}">{{ post.date | date_to_long_string | date: "%Y" }}</time>
+
+{{ post.content }}
+{{ post.excerpt }} 
+{{ post.author }}
+</article>
+{% endfor %}
+
+{% include feature_row id="feature_row4" type="center" %}
