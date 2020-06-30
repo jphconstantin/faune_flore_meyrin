@@ -19,6 +19,7 @@ group :jekyll_plugins do
    gem "jekyll-feed"
    gem "jekyll-include-cache"
    gem "jekyll-archives"
+   gem "jekyll-sitemap"
    gem "jekyll-exif-data"
 end
 

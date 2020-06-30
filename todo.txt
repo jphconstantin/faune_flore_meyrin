@@ -1,6 +1,6 @@
-Bug: photos en double !
+(ok) photos en double ! c'est post.excerpt qui embête: provisoirement enlevé
 OK Encadrer les photos: faire un css
-Mois de l'année en français
+Mois de l'année en français (archives,articles,etc...)
 Compresser les images
 Revoir les catégories et les tags
 Auteur de la photo
@@ -15,11 +15,11 @@ Commentaire pour chaque post
 Réseaux sociaux ? facebook + pinterest,kindle, partage par email
 Recommander ce blog ?
 Imprimer un post ?
-Mentions légales
+OK Mentions légales
 Peut-on écrire en exif le nom de l'auteur ?
 OK Uniformiser le nom des images (.jpg), enlever copy
 Personnaliser 404.html
-Enlever sur home.html le texte Articles récents
-
+OK Enlever sur home.html le texte Articles récents
+Sitemap: ne prend pas toutes les pages ?
 
 https://lepus.unine.ch/carto-old/index.php?nuesp=13991&rivieres=on&lacs=on&hillsh=on&data=on&year=2000&lang=fr&fbclid=IwAR0xS43SPo9C5vhYT0ELNzXI8g06dq5kIxy4CRqoJG7fQrzRB3b-Pf3j1Ew

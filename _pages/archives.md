@@ -1,9 +1,10 @@
 ---
-layout: archive
+title: Archives
+layout: posts
 permalink: /archives/
 ---
 <div class="post">
-	<h2>Archives</h2>
+	<!--<h2>Archives</h2>-->
 	<ul>
 	  {% for post in site.posts %}
 	    {% unless post.next %}

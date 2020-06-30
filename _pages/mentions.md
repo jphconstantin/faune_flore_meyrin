@@ -15,4 +15,4 @@ Tous droits réservés.
 Faune et Flore de Meyrin<br>
 Responsable: Jean-Philippe Constantin<br>
 Adresse postale: 59 avenue de Mategnin 1217 MEYRIN (GE) - SUISSE<br>
-Adresse email: jph.constantin1217@gmail.com<br>
+Adresse e-mail: jph.constantin1217[at]gmail.com<br>
