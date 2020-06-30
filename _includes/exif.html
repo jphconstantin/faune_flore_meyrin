@@ -1,3 +1,9 @@
-le fichier: {{ include.content }}
-l'extension: {{ {{ include.content }}.extname }}
-
+<div class="jpc_img">
+    <img src="{{ include.content | relative_url }}" />
+    <div class="jpc_txt">
+    Modèle: {{ include.content | exif: 'model' }}
+    Prise de vue: {{ include.content | exif: 'date_time' | date: "%d-%m-%Y" }}
+    Vitesse: {{ include.content | exif: 'exposure_time.to_s' }}
+    Ouverture: {{ include.content | exif: 'f_number.to_f' }}
+    </div>
+</div>
