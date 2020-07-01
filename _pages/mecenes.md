@@ -21,6 +21,7 @@ Nous souhaitons nous affranchir de ces contraintes en hébergeant ce site chez u
 - Etes-vous un passionné de la faune et la flore ? 
 - Aimez-vous la commune de Meyrin au point de contribuer un peu plus à son rayonnement ?
 
-Alors soutenez nous dans notre entreprise !
+Alors soutenez-nous dans notre entreprise !
 
 Jean-Philippe CONSTANTIN
+Victor BERRIDGE

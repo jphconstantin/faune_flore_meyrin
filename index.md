@@ -39,10 +39,10 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/sponsoring.jpg
     alt: "placeholder image 2"
-    title: "Recherche mécène(s) !"
-    excerpt: 'Recherche mécène(s) pour héberger le site ...'
+    title: "Recherchons mécène(s) !"
+    excerpt: 'On recherche mécène(s) pour héberger le site ...'
     url: "/mecenes/"
-    btn_label: "Read More"
+    btn_label: "Lire la suite ..."
     btn_class: "btn--primary"    
 ---
 {% include feature_row id="intro" type="center" %}
@@ -99,7 +99,7 @@ La faune et la flore parviendront-elles à s’adapter suffisamment rapidement a
 {{ post.content }}
 </article>
 {% endfor %}
-
+<div class="jpc_img">
 {% include feature_row id="feature_row5" type="left" %}
-
+</div>
 {% include feature_row id="feature_row4" type="center" %}
