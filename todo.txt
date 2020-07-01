@@ -4,7 +4,8 @@ Mois de l'année en français (archives,articles,etc...)
 Compresser les images
 Revoir les catégories et les tags
 Auteur de la photo
-OK Date de prise de la photo
+(OK) Date de prise de la photo - pas sur github ?
+Exif: tester si exif? et gps?
 OK Récupérer métadata d'une photo (en javascript, en jekyll) (exif.js, jekyll-exiftag, jekyll-exif-data)
 Faire une bannière
 OK Mot contact dans le footer ?
@@ -21,5 +22,6 @@ OK Uniformiser le nom des images (.jpg), enlever copy
 Personnaliser 404.html
 OK Enlever sur home.html le texte Articles récents
 Sitemap: ne prend pas toutes les pages ?
+OK sponsor
 
 https://lepus.unine.ch/carto-old/index.php?nuesp=13991&rivieres=on&lacs=on&hillsh=on&data=on&year=2000&lang=fr&fbclid=IwAR0xS43SPo9C5vhYT0ELNzXI8g06dq5kIxy4CRqoJG7fQrzRB3b-Pf3j1Ew

@@ -36,6 +36,14 @@ feature_row4:
     url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row5:
+  - image_path: /assets/images/sponsoring.jpg
+    alt: "placeholder image 2"
+    title: "Recherche mécène(s) !"
+    excerpt: 'Recherche mécène(s) pour héberger le site ...'
+    url: "/mecenes/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"    
 ---
 {% include feature_row id="intro" type="center" %}
 En effet, Meyrin, malgré son urbanisation, présente une richesse écologique que ce soit dans les milieux terrestres, aquatiques et aériens. Une grande diversité de faune s'épanouit dans les bois et les champs voire même dans les habitations ...
@@ -44,8 +52,6 @@ En effet, Meyrin, malgré son urbanisation, présente une richesse écologique q
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
-
-<!--{% include feature_row id="feature_row4" type="center" %}-->
 
 Dans la commune, vous pourrez faire la rencontre d'animaux difficiles à observer comme ...
 une grande armoire à pharmacie ...
@@ -64,6 +70,7 @@ Les sous-bois représentent un biotope idéal pour les champignons.
 La faune et la flore parviendront-elles à s’adapter suffisamment rapidement aux changements climatiques ? Voilà l’inconnue à laquelle font face les écologues
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
 {% assign posts = site.posts %}
 {% for post in posts limit:3 %}
 <article>
@@ -90,9 +97,9 @@ La faune et la flore parviendront-elles à s’adapter suffisamment rapidement a
 <time datetime="{{ post.date | date: "%Y" }}">{{ post.date | date_to_long_string | date: "%Y" }}</time>
 
 {{ post.content }}
-{{ post.excerpt }} 
-{{ post.author }}
 </article>
 {% endfor %}
+
+{% include feature_row id="feature_row5" type="left" %}
 
 {% include feature_row id="feature_row4" type="center" %}

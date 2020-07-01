@@ -258,7 +258,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-archives
-  jekyll-exif-data
+  jekyll-exif-data (~> 0.0)
   jekyll-feed
   jekyll-include-cache
   jekyll-sitemap
