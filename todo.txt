@@ -25,3 +25,6 @@ Sitemap: ne prend pas toutes les pages ?
 OK sponsor
 
 https://lepus.unine.ch/carto-old/index.php?nuesp=13991&rivieres=on&lacs=on&hillsh=on&data=on&year=2000&lang=fr&fbclid=IwAR0xS43SPo9C5vhYT0ELNzXI8g06dq5kIxy4CRqoJG7fQrzRB3b-Pf3j1Ew
+
+Policy ? Jekyll simple (ssg conversion markdown en html), rapide (léger...),sûr (pas de bdd, total controle) économique (github gratuit)
+nom du theme utilisé, des plugins, outils utilisés (VS Code, Git)

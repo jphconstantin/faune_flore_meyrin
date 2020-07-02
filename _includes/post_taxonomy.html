@@ -1,0 +1,8 @@
+<!-- version spéciale pour mes post-->
+{% if site.tag_archive.type and post.tags[0] %}
+  {% include post_tag-list.html %}
+{% endif %}
+
+{% if site.category_archive.type and post.categories[0] %}
+  {% include post_category-list.html %}
+{% endif %}

@@ -1,7 +1,7 @@
 main:
   - title: "A Propos"
     url: /about/
-  - title: "Le blog"
+  - title: "Articles"
     url: /blog/
   - title: "Archives"
     url: /archives/

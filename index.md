@@ -69,6 +69,7 @@ Une faune rare et diversifiée ... s'épanouit dans le territoire ...
 Les sous-bois représentent un biotope idéal pour les champignons.
 La faune et la flore parviendront-elles à s’adapter suffisamment rapidement aux changements climatiques ? Voilà l’inconnue à laquelle font face les écologues
 
+------
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% assign posts = site.posts %}
@@ -95,10 +96,11 @@ La faune et la flore parviendront-elles à s’adapter suffisamment rapidement a
       {% when '12' %}Décembre
     {% endcase %}
 <time datetime="{{ post.date | date: "%Y" }}">{{ post.date | date_to_long_string | date: "%Y" }}</time>
-
 {{ post.content }}
 </article>
 {% endfor %}
+
+------
 <div class="jpc_img">
 {% include feature_row id="feature_row5" type="left" %}
 </div>

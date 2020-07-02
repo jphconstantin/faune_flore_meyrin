@@ -23,5 +23,5 @@ Nous souhaitons nous affranchir de ces contraintes en hébergeant ce site chez u
 
 Alors soutenez-nous dans notre entreprise !
 
-Jean-Philippe CONSTANTIN
+Jean-Philippe CONSTANTIN    
 Victor BERRIDGE
