@@ -4,7 +4,7 @@ Mois de l'année en français (archives,articles,etc...)
 Compresser les images
 Revoir les catégories et les tags
 Auteur de la photo
-(OK) Date de prise de la photo - pas sur github ?
+(OK) Date de prise de la photo - pas sur github ? plugin pas accepté par github
 Exif: tester si exif? et gps?
 OK Récupérer métadata d'une photo (en javascript, en jekyll) (exif.js, jekyll-exiftag, jekyll-exif-data)
 Faire une bannière

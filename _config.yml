@@ -20,7 +20,7 @@
 
 title: "Faune et flore de Meyrin"
 title-separator: "-"
-subtitle: "Site en construction - Version 0.50"
+subtitle: "Site en construction - Version 0.51"
 name: "Jean-Philippe CONSTANTIN"
 email: your-email@example.com
 description: &description "partager notre passion de la Nature"
@@ -35,6 +35,15 @@ paginate_path: "/blog/page:num"
 timezone: Europe/Zurich
 
 # Build settings
+
+#markdown: kramdown
+#highlighter: rouge
+#compress_html:
+# blanklines: true
+# comments: ["<!-- "," -->"]
+# ignore:
+# envs: [development]
+
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
