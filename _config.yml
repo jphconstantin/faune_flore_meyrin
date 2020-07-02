@@ -67,7 +67,7 @@ tag_archive:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
- exclude: [vendor]
+exclude: [vendor]
 
 #   - .sass-cache/
 #   - .jekyll-cache/
