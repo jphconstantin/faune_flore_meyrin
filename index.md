@@ -104,4 +104,4 @@ La faune et la flore parviendront-elles à s’adapter suffisamment rapidement a
 <div class="jpc_img">
 {% include feature_row id="feature_row5" type="left" %}
 </div>
-{% include feature_row id="feature_row4" type="center" %}
+<!-- {% include feature_row id="feature_row4" type="center" %} -->

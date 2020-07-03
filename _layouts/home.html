@@ -38,8 +38,7 @@ Pour le moment ne traite pas excerpt car écrit en double ??-->
     {% endcase %}
     <time datetime="{{ post.date | date: "%Y" }}">{{ post.date | date_to_long_string | date: "%Y" }}</time>
     {{ post.content }}
-    <!--{% include post_taxonomy.html %}-->
-    <!-- rajouter include page__date.html -->
+    {% include post_taxonomy.html %}
   </article>
 {% endfor %}
 {% include paginator.html %}
