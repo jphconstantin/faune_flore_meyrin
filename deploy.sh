@@ -1,4 +1,5 @@
 #!/bin/sh
+#deploy the content of _site folder to Github pages
 cd _site
 git init
 git config user.name "Travis CI"
