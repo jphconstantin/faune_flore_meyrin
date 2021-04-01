@@ -1,0 +1,9 @@
+f_f_meyrin: #twitter handler
+  twitter:
+    consumer_key: 'dsPrYGlcmero3DfPM8nB3dLi7'
+    consumer_secret: 'H7F97CLMYOVM2BOIx9T6EnwfiMWilrwriOFwjw6hsPVKUtfmRc'
+    access_key: '977254383795757056-tJVG0igAKyQ2fhSZSDhqprAXdLpAozj'
+    access_secret: '2Ua23JL9YdW6Y3BpT2IPNYZZ4zqsQSqsdPfZEPdsBIoWT'
+  urls:
+    - #https://jphconstantin.github.io/faune_flore_meyrin/feed.xml
+  hashtags: '#faune'

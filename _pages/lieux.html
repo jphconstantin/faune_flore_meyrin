@@ -1,0 +1,11 @@
+<script>
+    function processUser() {
+    var parametre = location.search.substring(1).split("&");  
+    var temp = parametre[0].split("=");
+    l = unescape(temp[1]);
+    document.getElementById("bidule").innerHTML = l;
+    }
+    processUser();
+  </script>
+  <div id="bidule"></div>
+  

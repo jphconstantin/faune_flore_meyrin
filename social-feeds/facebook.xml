@@ -1,0 +1,59 @@
+<!-- _layouts/social-feed.xml 
+ABANDONNE CAR IFTTT EST PAYANT -->
+---
+layout: social-feed
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faune et flore de Meyrin</title>
+    <description>Partager notre passion de la Nature à travers la faune et la flore de Meyrin</description>
+    <link>https://jphconstantin.github.io/faune_flore_meyrin</link>
+    <atom:link href="Faune et flore de Meyrin/faune_flore_meyrin/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 01 Apr 2021 13:43:30 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Apr 2021 13:43:30 +0200</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+    
+        "IMG_0169 - <em></em>"
+         
+        
+    
+        "IMG_0166 - <em></em>"
+         
+        
+    
+        "IMG_0160 - <em></em>"
+         
+        
+    
+        "IMG_0152 - <em></em>"
+         
+        
+    
+        "IMG_0148 - <em></em>"
+         
+        
+    
+        "IMG_0144 - <em></em>"
+         
+        
+    
+        "Pervenche - <em>vinca</em>"
+         
+        
+    
+        "Primevère - <em>primula</em>"
+         
+        
+    
+        "Violette - <em>viola</em>"
+         
+        
+    
+        "Corydale Creuse - <em>corydalis cava</em>"
+         
+        
+    
+  </channel>
+</rss>
