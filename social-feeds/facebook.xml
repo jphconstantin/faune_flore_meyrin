@@ -1,0 +1,45 @@
+<!-- selon eduardoboucas.com -->
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Faune et flore de Meyrin</title>
+    <description>Partager notre passion de la Nature à travers la faune et la flore de Meyrin</description>
+    <link>https://jphconstantin.github.io/faune_flore_meyrin</link>
+    <atom:link href="Faune et flore de Meyrin/faune_flore_meyrin/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 12 Apr 2021 13:22:32 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Apr 2021 13:22:32 +0200</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+    
+         
+        
+    
+         
+        
+    
+         
+        
+    
+         
+        
+    
+         
+        
+    
+         
+        
+    
+         
+        
+    
+         
+        
+    
+         
+        
+    
+         
+        
+    
+  </channel>
+</rss>
